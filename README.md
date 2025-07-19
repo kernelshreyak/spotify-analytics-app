@@ -1,4 +1,4 @@
-# Spotify Analytics CLI
+# Spotify Analytics App
 
 A Streamlit-powered dashboard for visualizing your Spotify listening habits. This app uses the Spotify Web API (via Spotipy) to fetch your top artists and tracks, providing interactive analytics and visualizations.
 
@@ -19,8 +19,8 @@ A Streamlit-powered dashboard for visualizing your Spotify listening habits. Thi
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/spotify-analytics-cli.git
-   cd spotify-analytics-cli
+   git clone https://github.com/yourusername/spotify-analytics-app.git
+   cd spotify-analytics-app
    ```
 
 2. **Install dependencies:**
