@@ -1,6 +1,6 @@
 # Spotify Analytics App
 
-A Streamlit-powered dashboard for visualizing your Spotify listening habits. This app uses the Spotify Web API (via Spotipy) to fetch your top artists and tracks, providing interactive analytics and visualizations.
+A Streamlit-powered dashboard for visualizing your Spotify listening habits. Unlike online analytics platforms, this app runs entirely on your local machine—your Spotify data is never uploaded to any third-party servers. All data processing happens privately and securely on your computer, giving you full control over your listening analytics. The app uses the Spotify Web API (via Spotipy) to fetch your top artists and tracks, providing interactive analytics and visualizations.
 
 ## Features
 
@@ -75,5 +75,3 @@ A Streamlit-powered dashboard for visualizing your Spotify listening habits. Thi
 MIT License
 
 ---
-
-_Data fetched via Spotipy (Spotify Web API). This project is not affiliated with Spotify AB._
